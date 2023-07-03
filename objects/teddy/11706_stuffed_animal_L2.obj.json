@@ -1,0 +1,21 @@
+{
+  "created_at": "2023-06-18T19:43:29.742080",
+  "version": "0.1",
+  "mtllibs": [
+    "11706_stuffed_animal_L2.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "toy_dog_parts",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 774144
+    },
+    {
+      "material": "toy_dog_body",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 774144,
+      "byte_length": 3096576
+    }
+  ]
+}
